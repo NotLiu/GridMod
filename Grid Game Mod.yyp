@@ -71,14 +71,6 @@
             }
         },
         {
-            "Key": "49565ac3-35e3-4c13-b27c-f5c6fec84b2b",
-            "Value": {
-                "id": "c9060341-14c0-4d38-8f94-0d7ef4db4f40",
-                "resourcePath": "objects\\objorb\\objorb.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "4d237547-f266-4de6-950e-86547e4c7696",
             "Value": {
                 "id": "4a18125b-5410-4eb5-9e9d-14f67061050d",
@@ -247,10 +239,10 @@
             }
         },
         {
-            "Key": "bbacb590-23f4-43c6-8167-5f5777f3ee79",
+            "Key": "c14c733f-0ffb-4191-9354-3ab91285adea",
             "Value": {
-                "id": "c7d958fc-3f12-4c1a-8750-f8f4b04f39f7",
-                "resourcePath": "objects\\objwave\\objwave.yy",
+                "id": "fbea3650-d461-41b5-9b58-b2d2d9d69e87",
+                "resourcePath": "objects\\objRhythm\\objRhythm.yy",
                 "resourceType": "GMObject"
             }
         },
